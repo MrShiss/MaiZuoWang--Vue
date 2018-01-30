@@ -8,6 +8,8 @@ vue卖座网
 * $ npm install or yarn install
 ## 启动
 * server目录下 
+
 **$ node app**
 * vue目录下 
+
 **$ npm run dev**
